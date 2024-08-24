@@ -1,5 +1,5 @@
 # Fish Game
 
-An uncompleted game, following a tutorial
+Still in development, following a tutorial.
 
 ![Demonstração](Animation.gif)
